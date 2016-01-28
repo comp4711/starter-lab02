@@ -15,8 +15,8 @@
                 <span class="mynav">
                     <ul>
                         <li><a href="/">Home</a></li>
-                        <li><a href="/gallery">Gallery</a></li>
-                        <li><a href="/about">About</a></li>
+                        <li><a href="/Gallery">Gallery</a></li>
+                        <li><a href="/About">About</a></li>
                     </ul>
                 </span>
             </div>

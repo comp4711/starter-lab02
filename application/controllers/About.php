@@ -1,5 +1,5 @@
 <?php
-class About extends CI_Controller {
+class About extends Application {
 
     /**
      * Index Page for this controller.
@@ -18,6 +18,7 @@ class About extends CI_Controller {
      */
     public function index()
     {
-        $this->load->view('about');
+        $this->data['pagebody'] = 'about';
+        $this->render();
     }
 }
